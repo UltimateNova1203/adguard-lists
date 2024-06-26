@@ -1,0 +1,39 @@
+##########
+# Google
+||adgoogle.net^
+||area120.com^
+||coral.ai^
+||chrome.com^
+||clients.l.google.com^
+||crashlytics.com^
+||dartsearch.net^
+||firebase.com^
+||firebaseio.com^
+||firebase.io^
+||fitbit.com^
+||google-analytics.com^
+||google-analytics-cn.com^
+||googleads.com^
+||googlefiber.net^
+||googlehosted.com^
+||googleoptimize.com^
+||googleoptimize-cn.com^
+||googletagmanaager.com^
+||googletagmanager-cn.com^
+||googletagservices.com^
+||googlevads-cn.com^
+||idx.dev^
+||jibemobile.com^
+||kormo.com^
+||nest.com^
+||page.link^
+||staykeen.com^
+||tangi.co^
+||tiltbrush.com^
+||uservoice.com^
+||waze.com^
+||waze-app.com^
+! Required for YouTube watch history
+@@||s.youtube.com^
+! Required for YouTube search
+@@||clients1.google.com^
