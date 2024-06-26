@@ -1,0 +1,6 @@
+##########
+# YouTube
+! Required for YouTube watch history
+@@||s.youtube.com^
+! Required for YouTube search
+@@||clients1.google.com^
